@@ -1,0 +1,13 @@
+Features
+
+- Response to invitation
+- select menu for dinner
+- show information about location
+- show info about menu
+- show info about hotels around
+- info about miriam and me
+- responsiveness: phone etc
+- register for newsletter/mail info etc
+- links to photos
+- info about trauzeugen
+- schedule
